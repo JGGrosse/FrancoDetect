@@ -13,6 +13,6 @@ We are playing a round of geoguessr with our AI using the [web_application](web_
 ![](screenshot.png)
 
 The script then applies our model according to the Flow Chart above and delivers as a result an arrondissement or a city in France. We then convert this result into coordinates (latitude, longitude) and place the guess on the map. After all five rounds have been completed we can analyze our results:
-![](results.png)
+![](result.png)
 
 In this case, we got three locations almost exactly right and were quite far off in the other two.
